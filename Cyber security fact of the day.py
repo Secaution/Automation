@@ -80,7 +80,7 @@ cybersecurity_facts = [
     "Cybersecurity incidents can lead to financial losses, legal issues, and reputational damage.",
     "Security awareness training educates employees on recognizing and responding to cybersecurity threats.",
     "'Social engineering' tactics manipulate individuals to divulge confidential information or perform specific actions.",
-    "A 'cybersecurity risk assessment' identifies and evaluates potential threats to an organization's
+    "A 'cybersecurity risk assessment' identifies and evaluates potential threats to an organization's cyber security"
 
 ]
 
